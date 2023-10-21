@@ -1,0 +1,33 @@
+body {
+    background-color: #011F26;
+    color: #BFB78F;
+}
+hr{
+    border-color: #434242;
+}
+h1 {
+    background-color: #434242;
+    color: #F2A71B;
+    font-size: 40px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1em;
+    width: 250px;
+    border: 3px solid #025E73;
+    border-radius:0.2em;
+
+}
+h3 {
+    color: #A5A692;
+}
+a {
+    font-size: smaller;
+    background-color: #025E73;
+    padding: 5%;
+}
+a:hover{
+    color: #000000;
+    background-color: #F2A71B;
+}
+
+
+gwg

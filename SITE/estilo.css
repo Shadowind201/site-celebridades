@@ -22,12 +22,15 @@ h3 {
 a {
     font-size: smaller;
     background-color: #025E73;
-    padding: 5%;
+    padding: 5px;
+    border: 5px solid #025E73;
+    border-radius:0.5em;
+    color: #000000;
 }
 a:hover{
     color: #000000;
     background-color: #F2A71B;
+    border: 5px solid #F2A71B;
+    border-radius:0.5em;
+    color: #000000;
 }
-
-
-gwg
